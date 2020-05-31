@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingTests", "BookingTests\BookingTests.csproj", "{B7A935F5-CB08-4BDC-AE31-66961AA8B7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvtomatisationFrameworkTests", "..\AvtomatisationFrameworkTests\AvtomatisationFrameworkTests\AvtomatisationFrameworkTests.csproj", "{1CCF1BA9-BD09-4FE1-8C84-607E953EF49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A935F5-CB08-4BDC-AE31-66961AA8B7B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A935F5-CB08-4BDC-AE31-66961AA8B7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A935F5-CB08-4BDC-AE31-66961AA8B7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A935F5-CB08-4BDC-AE31-66961AA8B7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCF1BA9-BD09-4FE1-8C84-607E953EF49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCF1BA9-BD09-4FE1-8C84-607E953EF49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCF1BA9-BD09-4FE1-8C84-607E953EF49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCF1BA9-BD09-4FE1-8C84-607E953EF49C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCD95E54-8C10-460F-8C4D-C3DCC975D1BB}
+	EndGlobalSection
+EndGlobal
